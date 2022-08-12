@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['2349131783574',''] //ur owner number
+global.owner = ['2349131783574','254775618382'] //ur owner number
 global.ownername = "🌀𝗢𝗕𝗜𝗭𝗭𝗬"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: Obizzy" //ur yt chanel name
+global.socialm = "Instagram: obizzyff" //ur github or insta name
+global.location = "Nigeria, Kano, Yankaba" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
+global.botname = "𝞗𝘽𝙄𝙕𝙕𝙔-𝙈𝘿" //ur bot name
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.packname = "𝞗𝘽𝙄𝙕𝙕𝙔-𝙈𝘿 Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "𝗢𝗕𝗜𝗭𝗭𝗬"
+global.themeemoji = "💗"
+global.reactmoji = "👀"
+global.ownertag = ['2349131783574'] //ur owner tag
+global.ownernummenu = ['2349131783574'] //ur owner number in menu and all
+global.watermark = "Darco Bot Inc." //ur watermark
+global.botscript = "https://github.com/turbogaming876/DarcoVampire-MD"
+global.linkz1 = ""
+global.linkz2 = ""
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -132,7 +132,7 @@ global.APIs = {
 
 // key
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': '1c2182bb9adb',
 }
 //menu logo maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
